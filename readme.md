@@ -13,3 +13,9 @@
 ```
 
 atributos sempre na tag de abertura, nunca na tag de fechamento
+
+# CSS
+
+Linguagem de estilo, tem as seguintes responsabilidades:
+
+- visual
