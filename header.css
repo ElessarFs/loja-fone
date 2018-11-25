@@ -7,9 +7,11 @@ a {
 }
 h1 {
   font-size: 40px;
+  font-family: ArialMT, sans-serif;
 }
 a {
   text-decoration: none;
   font-size: 21px;
   line-height: 28px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
