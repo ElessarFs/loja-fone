@@ -1,31 +1,25 @@
 header {
   background-color: #e24647;
-}
-h1,
-a {
   color: #fff;
+  overflow: hidden;
+  margin: 0px 115px;
+  padding: 55px 60px 95px;
 }
+
 nav {
-  display: inline-block;
-  margin-top: 40px;
+  font-size: 21px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h1 {
   font-size: 40px;
-  font-family: ArialMT, sans-serif;
-  display: inline-block;
-  width: 116px;
-  height: 44px;
-  margin-left: 45px;
-  margin-right: 846px;
+  font-family: ArialMT, Arial, Helvetica, sans-serif;
+  float: left;
 }
 
 a {
   text-decoration: none;
-  font-size: 21px;
   line-height: 28px;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  width: 84px;
-  height: 28px;
-  margin: 35px;
+  color: inherit;
+  float: right;
 }
